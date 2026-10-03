@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+appsettings.json
+secrets.json
+.env
+.env.*
